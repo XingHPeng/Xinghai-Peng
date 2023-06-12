@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Peng Xinghai, was born in October, 1995 in Changsha, Hunan, China. He received the B.S. degree in Civil Engineering from Changsha University of Science and Technology, Changsha, China, in 2017. He is currently working toward the Ph.D. degree in with the College of Transportation Engineering,Changsha University of Science and Technology, Changsha, China. 
+Peng Xinghai, National Engineering Research Center of Highway Maintenance Technology, Changsha University of Science and Technology, 410114, Hunan, P.R. China. 
 
