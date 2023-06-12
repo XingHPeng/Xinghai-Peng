@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Changsha, Changsha university of science and technology
-* M.S. in Changsha, Changsha university of science and technology
-* Ph.D in Changsha, Changsha university of science and technology
+* B.S. in Changsha, Changsha University of Science and Technology
+* M.S. in Changsha, Changsha University of Science and Technology
+* Ph.D in Changsha, Changsha University of Science and Technology
   
 Skills
 ======
